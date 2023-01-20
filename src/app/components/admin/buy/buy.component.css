@@ -1,0 +1,8 @@
+mat-form-field {
+  width: 100%;
+}
+
+tr.example-element-row:not(.example-expanded-row):hover {
+  background: #e5e7eb;
+}
+
